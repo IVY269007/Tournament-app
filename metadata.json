@@ -1,0 +1,6 @@
+{
+  "name": "APEX BRACKET — Tournament Studio",
+  "description": "Esports and fighting game 16:9 broadcast tournament bracket generator supporting Single Elimination (up to 32) and Double Elimination (up to 8) with PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
